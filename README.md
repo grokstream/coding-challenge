@@ -17,5 +17,6 @@ Sum all prime numbers from 0 to 10,000. To do this sum, use the [Sieve of Eratos
 Create a graph using any charting library you would like. For the x,y labels: x should be the prime number, y should be the cumlative sum of prime numbers including that number. For example:
 
 x = [1,3,5,7,11] //the primes
+
 y = [1,4,9,16,27] //the sums
 
