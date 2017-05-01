@@ -20,5 +20,5 @@ y = [1,4,9,16,27] //the sums
 So the payload for the graph would look something like [[1,1], [3,4], [5,9], [7,16]]
 
 
-# Put your app up on github. Be sure to make a script so we can install dependencies.
+# Put your app up on github. Be sure the app includes a script to make installing dependecies easy (if needed).
 
