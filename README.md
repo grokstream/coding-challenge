@@ -20,3 +20,5 @@ x = [1,3,5,7,11] //the primes
 
 y = [1,4,9,16,27] //the sums
 
+So the payload for the graph would look something like [[1,1], [3,4], [5,9], [7,16]]
+
