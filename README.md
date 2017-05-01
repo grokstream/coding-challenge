@@ -6,9 +6,6 @@ Create a small 1 page app using Backbone or Angular. At the top of the page ther
 
 The url will give a json response of data which can be used as a payload and input into an interactive chart using the [D3 charting](https://d3js.org/) library. The chart should use d3-zoom and d3-brush to make it more interactive. (You can zoom in on a date or stretch it. As long as it's using d3-zoom and d3-brush correctly you are fine. 
 
-Put your app up on github. Be sure to make a script so we can install dependencies.
-
-
 
 # coding-challenge 2
 
@@ -21,4 +18,7 @@ x = [1,3,5,7,11] //the primes
 y = [1,4,9,16,27] //the sums
 
 So the payload for the graph would look something like [[1,1], [3,4], [5,9], [7,16]]
+
+
+# Put your app up on github. Be sure to make a script so we can install dependencies.
 
