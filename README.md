@@ -1,6 +1,6 @@
 # Grok javascript coding-challenge
 
-Sum all prime numbers from 0 to 10,000. To do this sum, use the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes). Just looping through each number will not be adequate. 
+Sum all prime numbers from 0 to 10,000. 
 
 Create a graph using any charting library you would like. For the x,y labels: x should be the prime number, y should be the cumlative sum of prime numbers including that number. For example:
 
