@@ -1,6 +1,6 @@
 # Grok javascript coding-challenge
 
-Sum all prime numbers from 0 to 10,000. Total operation time cannot exceed 2 minutes.
+Sum all prime numbers from 0 to 10,000. Total operation time cannot exceed 2 minutes (assuming you're using a processor > 2.0 GHz)
 
 Create a graph using any charting library you would like. For the x,y labels: x should be the prime number, y should be the cumlative sum of prime numbers including that number. For example:
 
